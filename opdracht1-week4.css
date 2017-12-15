@@ -1,0 +1,164 @@
+.grotekader{
+  background-color: white;
+  border: 8px solid black;
+  position: relative;
+  width: 900px;
+  height: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+
+}
+
+.a{
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  border: 8px solid black;
+  width: 170px;
+  height: 190px;
+  background-color: red;
+}
+
+.b{
+  position: absolute;
+  top: -8px;
+  left: 197px;
+  border: 8px solid black;
+  width: 70px;
+  height: 410px;
+  background-color: #004d00;
+}
+
+.c{
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  border: 8px solid black;
+  width: 165px;
+  height: 130px;
+  background-color: red;
+}
+
+.d{
+  position: absolute;
+  top: -8px;
+  right: 350px;
+  border: 8px solid black;
+  width: 45px;
+  height: 130px;
+  background-color: #ffff33;
+}
+
+.e{
+  position: absolute;
+  top: 120px;
+  right: -8px;
+  border: 8px solid black;
+  width: 60px;
+  height: 360px;
+  background-color: #ffff33;
+}
+
+.f{
+  position: absolute;
+  top: 20px;
+  right: 200px;
+  border: 8px solid blue;
+  width: 110px;
+  height: 340px;
+  background-image:url("https://i.pinimg.com/originals/09/e8/4d/09e84d89a70bde6ce246e2f14eae9f40.jpg");
+  background-size: contain;
+}
+
+.g{
+  position: absolute;
+  top: 160px;
+  right: 120px;
+  border: 8px solid black;
+  width: 110px;
+  height: 340px;
+  background-color: white;
+}
+
+.h{
+  position: absolute;
+  top: 170px;
+  left: 370px;
+  border: 8px solid black;
+  width: 115px;
+  height: 140px;
+  background-color: white;
+}
+
+.i{
+  position: absolute;
+  top: 130px;
+  left: 340px;
+  border: 8px solid black;
+  width: 90px;
+  height: 90px;
+  background-color: #004d00;
+}
+
+.j{
+  position: absolute;
+  top: 190px;
+  left: 310px;
+  border: 8px solid black;
+  width: 90px;
+  height: 90px;
+  background-color: #004d00;
+}
+
+.k{
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  border: 8px solid black;
+  width: 180px;
+  height: 125px;
+  background-color: red;
+}
+
+.l{
+  position: absolute;
+  bottom: 40px;
+  right: 15px;
+  border: 8px solid black;
+  width: 380px;
+  height: 125px;
+  background-color: red;
+}
+
+.m{
+  position: absolute;
+  bottom: 120px;
+  left: 130px;
+  border: 8px solid black;
+  width: 460px;
+  height: 125px;
+  background-color: #ffff33;
+}
+
+.n{
+  position: absolute;
+  bottom: 70px;
+  left: 180px;
+  border: 8px solid blue;
+  width: 460px;
+  height: 70px;
+  background-image:url("https://i.pinimg.com/originals/09/e8/4d/09e84d89a70bde6ce246e2f14eae9f40.jpg");
+  background-size: contain;
+}
+
+.o{
+  position: absolute;
+  top: 170px;
+  left: 70px;
+  border: 8px solid blue;
+  width: 70px;
+  height: 380px;
+  background-image:url("https://i.pinimg.com/originals/09/e8/4d/09e84d89a70bde6ce246e2f14eae9f40.jpg");
+  background-size: contain;
+}
